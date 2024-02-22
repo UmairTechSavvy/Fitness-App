@@ -1,0 +1,1141 @@
+{
+  "exercises": [
+    {
+      "name": "Push-ups",
+      "description": "A bodyweight exercise that primarily targets the chest, shoulders, and triceps.",
+      "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+      "imageLink": "https://example.com/push_ups_image.jpg"
+    },
+    {
+      "name": "Squats",
+      "description": "A compound exercise that targets the muscles of the lower body.",
+      "muscleGroups": ["Legs", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=U3HvjrRxwO8",
+      "imageLink": "https://example.com/squats_image.jpg"
+    },
+    {
+      "name": "Deadlifts",
+      "description": "A weightlifting exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips.",
+      "muscleGroups": ["Back", "Legs"],
+      "videoLink": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+      "imageLink": "https://example.com/deadlifts_image.jpg"
+    },
+    {
+      "name": "Pull-ups",
+      "description": "An upper-body strength exercise that targets the back muscles.",
+      "muscleGroups": ["Back", "Biceps"],
+      "videoLink": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+      "imageLink": "https://example.com/pull_ups_image.jpg"
+    },
+    {
+      "name": "Bench Press",
+      "description": "A weight training exercise in which a barbell is pressed upwards from a supine position.",
+      "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=BYKScL2sgCs",
+      "imageLink": "https://example.com/bench_press_image.jpg"
+    },
+    {
+      "name": "Dumbbell Lunges",
+      "description": "An exercise that targets the quadriceps, hamstrings, glutes, and calves.",
+      "muscleGroups": ["Legs", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=n34jG5CDBrw",
+      "imageLink": "https://example.com/dumbbell_lunges_image.jpg"
+    },
+    {
+      "name": "Plank",
+      "description": "An isometric core strength exercise that involves maintaining a position similar to a push-up for an extended period.",
+      "muscleGroups": ["Core"],
+      "videoLink": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+      "imageLink": "https://example.com/plank_image.jpg"
+    },
+    {
+      "name": "Russian Twists",
+      "description": "A core exercise that strengthens the obliques and other abdominal muscles.",
+      "muscleGroups": ["Core", "Obliques"],
+      "videoLink": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+      "imageLink": "https://example.com/russian_twists_image.jpg"
+    },
+    {
+      "name": "Barbell Rows",
+      "description": "An exercise that targets the muscles of the back, particularly the latissimus dorsi.",
+      "muscleGroups": ["Back", "Biceps"],
+      "videoLink": "https://www.youtube.com/watch?v=G8l_8chR5BE",
+      "imageLink": "https://example.com/barbell_rows_image.jpg"
+    },
+    {
+      "name": "Leg Press",
+      "description": "A weight training exercise in which the individual pushes a weight or resistance away from them using their legs.",
+      "muscleGroups": ["Legs"],
+      "videoLink": "https://www.youtube.com/watch?v=mrZgYj40yzY",
+      "imageLink": "https://example.com/leg_press_image.jpg"
+    },
+    {
+      "name": "Dumbbell Shoulder Press",
+      "description": "An exercise that primarily targets the deltoids.",
+      "muscleGroups": ["Shoulders", "Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=b1eREf8mBq0",
+      "imageLink": "https://example.com/dumbbell_shoulder_press_image.jpg"
+    },
+    {
+      "name": "Bicep Curls",
+      "description": "An isolation exercise for the biceps.",
+      "muscleGroups": ["Biceps"],
+      "videoLink": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+      "imageLink": "https://example.com/bicep_curls_image.jpg"
+    },
+
+ 
+        {
+          "name": "Tricep Dips",
+          "description": "An exercise used to strengthen the triceps muscles.",
+          "muscleGroups": ["Triceps"],
+          "videoLink": "https://www.youtube.com/watch?v=0326dy_-CzM",
+          "imageLink": "https://example.com/tricep_dips_image.jpg"
+        },
+        {
+          "name": "Calf Raises",
+          "description": "An exercise targeting the calf muscles.",
+          "muscleGroups": ["Calves"],
+          "videoLink": "https://www.youtube.com/watch?v=zjUgIMU_8tc",
+          "imageLink": "https://example.com/calf_raises_image.jpg"
+        },
+        {
+          "name": "Hanging Leg Raises",
+          "description": "A core exercise that targets the lower abdominal muscles.",
+          "muscleGroups": ["Core"],
+          "videoLink": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+          "imageLink": "https://example.com/hanging_leg_raises_image.jpg"
+        },
+        {
+          "name": "Romanian Deadlifts",
+          "description": "A variation of the deadlift exercise that targets the hamstrings and lower back.",
+          "muscleGroups": ["Hamstrings", "Lower Back"],
+          "videoLink": "https://www.youtube.com/watch?v=7ImRM5HdOMs",
+          "imageLink": "https://example.com/romanian_deadlifts_image.jpg"
+        },
+        {
+          "name": "Chest Flyes",
+          "description": "An isolation exercise targeting the chest muscles.",
+          "muscleGroups": ["Chest"],
+          "videoLink": "https://www.youtube.com/watch?v=hfjSZUIUJH4",
+          "imageLink": "https://example.com/chest_flyes_image.jpg"
+        },
+        {
+          "name": "Arnold Press",
+          "description": "A shoulder exercise named after Arnold Schwarzenegger that targets the deltoids.",
+          "muscleGroups": ["Shoulders", "Triceps"],
+          "videoLink": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "imageLink": "https://example.com/arnold_press_image.jpg"
+        },
+        {
+          "name": "Hammer Curls",
+          "description": "A variation of the bicep curl exercise that targets the brachialis and brachioradialis.",
+          "muscleGroups": ["Biceps", "Forearms"],
+          "videoLink": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+          "imageLink": "https://example.com/hammer_curls_image.jpg"
+        },
+        {
+          "name": "Sumo Deadlift",
+          "description": "A deadlift variation with a wider stance that targets the glutes and inner thighs.",
+          "muscleGroups": ["Glutes", "Inner Thighs"],
+          "videoLink": "https://www.youtube.com/watch?v=x9d-1dJp6pU",
+          "imageLink": "https://example.com/sumo_deadlift_image.jpg"
+        },
+        {
+          "name": "Russian Kettlebell Swing",
+          "description": "A full-body exercise that primarily targets the posterior chain.",
+          "muscleGroups": ["Glutes", "Hamstrings", "Lower Back"],
+          "videoLink": "https://www.youtube.com/watch?v=tW6HIL3Rjmg",
+          "imageLink": "https://example.com/russian_kettlebell_swing_image.jpg"
+        },
+        {
+          "name": "Flutter Kicks",
+          "description": "A core exercise that targets the lower abs and hip flexors.",
+          "muscleGroups": ["Core", "Hip Flexors"],
+          "videoLink": "https://www.youtube.com/watch?v=Jx7HakZi8nQ",
+          "imageLink": "https://example.com/flutter_kicks_image.jpg"
+        },
+        {
+          "name": "Box Jumps",
+          "description": "A plyometric exercise that improves explosive power and lower body strength.",
+          "muscleGroups": ["Legs"],
+          "videoLink": "https://www.youtube.com/watch?v=9WN1te1VU3g",
+          "imageLink": "https://example.com/box_jumps_image.jpg"
+        },
+        {
+          "name": "Dumbbell Bench Press",
+          "description": "A variation of the bench press using dumbbells that targets the chest, shoulders, and triceps.",
+          "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+          "videoLink": "https://www.youtube.com/watch?v=OJwfOx7WO_U",
+          "imageLink": "https://example.com/dumbbell_bench_press_image.jpg"
+        },
+    
+    
+        {
+          "name": "Seated Row",
+          "description": "An exercise that targets the muscles of the upper back and arms.",
+          "muscleGroups": ["Back", "Biceps"],
+          "videoLink": "https://www.youtube.com/watch?v=HgjX2J5HMDI"
+        },
+        {
+          "name": "Front Squats",
+          "description": "A squat variation where the barbell is positioned in front of the body, targeting the quads and core.",
+          "muscleGroups": ["Legs", "Core"],
+          "videoLink": "https://www.youtube.com/watch?v=-lhsv5p3nNI"
+        },
+        {
+          "name": "Reverse Lunges",
+          "description": "A lunge variation where you step backward, targeting the quads, hamstrings, and glutes.",
+          "muscleGroups": ["Legs", "Glutes"],
+          "videoLink": "https://www.youtube.com/watch?v=Y2l5bbfbdHs"
+        },
+        {
+          "name": "Lat Pulldowns",
+          "description": "An exercise that targets the latissimus dorsi muscles.",
+          "muscleGroups": ["Back", "Biceps"],
+          "videoLink": "https://www.youtube.com/watch?v=hbQYs0EzVO0"
+        },
+        {
+          "name": "Skull Crushers",
+          "description": "An isolation exercise for the triceps.",
+          "muscleGroups": ["Triceps"],
+          "videoLink": "https://www.youtube.com/watch?v=d_KZxkY_0cM"
+        },
+        {
+          "name": "Standing Calf Raises",
+          "description": "An exercise targeting the calf muscles.",
+          "muscleGroups": ["Calves"],
+          "videoLink": "https://www.youtube.com/watch?v=UnJz0TrhQEg"
+        },
+            {
+              "name": "Incline Bench Press",
+              "description": "A variation of the bench press performed on an inclined bench to target the upper chest.",
+              "muscleGroups": ["Upper Chest", "Shoulders", "Triceps"],
+              "videoLink": "https://www.youtube.com/watch?v=Vk5wEeBiDqA"
+            },
+            {
+              "name": "Leg Extensions",
+              "description": "An isolation exercise for the quadriceps muscles.",
+              "muscleGroups": ["Quadriceps"],
+              "videoLink": "https://www.youtube.com/watch?v=krOUA3cHkz0"
+            },
+            {
+              "name": "Hamstring Curls",
+              "description": "An isolation exercise for the hamstrings.",
+              "muscleGroups": ["Hamstrings"],
+              "videoLink": "https://www.youtube.com/watch?v=5QcfP6c_0hE"
+            },
+            {
+              "name": "Close-Grip Bench Press",
+              "description": "A variation of the bench press with a narrow grip to target the triceps.",
+              "muscleGroups": ["Triceps", "Chest"],
+              "videoLink": "https://www.youtube.com/watch?v=JFKejzrHTWc"
+            },
+            {
+              "name": "Lateral Raises",
+              "description": "An isolation exercise for the lateral deltoids.",
+              "muscleGroups": ["Shoulders"],
+              "videoLink": "https://www.youtube.com/watch?v=Fk6HfhLg9f8"
+            },
+            {
+              "name": "Standing Military Press",
+              "description": "A shoulder exercise performed standing with a barbell or dumbbells.",
+              "muscleGroups": ["Shoulders", "Triceps"],
+              "videoLink": "https://www.youtube.com/watch?v=xy2Qv0uac9w"
+            },
+            {
+              "name": "Dumbbell Step-Ups",
+              "description": "An exercise that targets the quadriceps, glutes, and hamstrings.",
+              "muscleGroups": ["Quadriceps", "Glutes", "Hamstrings"],
+              "videoLink": "https://www.youtube.com/watch?v=QDN7vX_Hyb0"
+            },
+            {
+              "name": "Reverse Flyes",
+              "description": "An exercise that targets the rear deltoids and upper back.",
+              "muscleGroups": ["Shoulders", "Upper Back"],
+              "videoLink": "https://www.youtube.com/watch?v=k0HtsV9EMLo"
+            },
+            {
+              "name": "Cable Crunches",
+              "description": "An abdominal exercise using a cable machine to target the rectus abdominis.",
+              "muscleGroups": ["Core"],
+              "videoLink": "https://www.youtube.com/watch?v=MDuIb8mTjZI"
+            },
+            {
+              "name": "Barbell Lunges",
+              "description": "A lower body exercise targeting the quadriceps, hamstrings, and glutes.",
+              "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+              "videoLink": "https://www.youtube.com/watch?v=-vJu_0kbeEw"
+            },
+            {
+              "name": "Decline Bench Press",
+              "description": "A variation of the bench press performed on a declined bench to target the lower chest.",
+              "muscleGroups": ["Lower Chest", "Shoulders", "Triceps"],
+              "videoLink": "https://www.youtube.com/watch?v=fPYKtLmxX04"
+            },
+            {
+              "name": "Front Squats",
+              "description": "A squat variation where the barbell is positioned in front of the body.",
+              "muscleGroups": ["Quadriceps", "Glutes", "Core"],
+              "videoLink": "https://www.youtube.com/watch?v=mzv3DVVobzY"
+            },
+            {
+              "name": "Chest Dips",
+              "description": "An exercise targeting the chest, shoulders, and triceps.",
+              "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+              "videoLink": "https://www.youtube.com/watch?v=1iUOaKVgF_g"
+            },
+            {
+              "name": "Barbell Shrugs",
+              "description": "An exercise targeting the trapezius muscles.",
+              "muscleGroups": ["Trapezius"],
+              "videoLink": "https://www.youtube.com/watch?v=-yMWEY-VN9U"
+            },
+            {
+              "name": "Leg Raises",
+              "description": "An abdominal exercise targeting the lower abs.",
+              "muscleGroups": ["Core"],
+              "videoLink": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+            },
+                {
+                  "name": "Roman Chair Leg Raises",
+                  "description": "A core exercise targeting the lower abs and hip flexors using a Roman chair.",
+                  "muscleGroups": ["Core", "Hip Flexors"],
+                  "videoLink": "https://www.youtube.com/watch?v=ABrhbz5m_9Y"
+                },
+                {
+                  "name": "Barbell Bench Press",
+                  "description": "A compound exercise targeting the chest, shoulders, and triceps using a barbell.",
+                  "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+                  "videoLink": "https://www.youtube.com/watch?v=5RtS3KXTqW8"
+                },
+                {
+                  "name": "Seated Leg Press",
+                  "description": "A compound exercise targeting the quadriceps, hamstrings, and glutes using a leg press machine.",
+                  "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+                  "videoLink": "https://www.youtube.com/watch?v=Km4WpFuVlT0"
+                },
+                {
+                  "name": "Wide-Grip Pull-Ups",
+                  "description": "An upper-body exercise targeting the back, biceps, and shoulders using a wide grip.",
+                  "muscleGroups": ["Back", "Biceps", "Shoulders"],
+                  "videoLink": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+                },
+                {
+                  "name": "Single-Leg Romanian Deadlifts",
+                  "description": "A unilateral exercise targeting the hamstrings, glutes, and lower back.",
+                  "muscleGroups": ["Hamstrings", "Glutes", "Lower Back"],
+                  "videoLink": "https://www.youtube.com/watch?v=VlRxpUI_jA4"
+                },
+                {
+                  "name": "Cable Crossovers",
+                  "description": "An isolation exercise targeting the chest muscles using a cable machine.",
+                  "muscleGroups": ["Chest"],
+                  "videoLink": "https://www.youtube.com/watch?v=s4zlSsvH0SE"
+                },
+                {
+                  "name": "Tricep Kickbacks",
+                  "description": "An isolation exercise targeting the triceps using dumbbells.",
+                  "muscleGroups": ["Triceps"],
+                  "videoLink": "https://www.youtube.com/watch?v=QpkBkUVb2UE"
+                },
+                {
+                  "name": "Leg Curl Machine",
+                  "description": "An isolation exercise targeting the hamstrings using a leg curl machine.",
+                  "muscleGroups": ["Hamstrings"],
+                  "videoLink": "https://www.youtube.com/watch?v=5V_AWuW0XYY"
+                },
+                {
+                  "name": "Dumbbell Side Lateral Raises",
+                  "description": "An isolation exercise targeting the lateral deltoids using dumbbells.",
+                  "muscleGroups": ["Shoulders"],
+                  "videoLink": "https://www.youtube.com/watch?v=8euL9UVqCJw"
+                },
+                {
+                  "name": "Cable Rope Hammer Curls",
+                  "description": "An isolation exercise targeting the biceps using a cable machine and rope attachment.",
+                  "muscleGroups": ["Biceps"],
+                  "videoLink": "https://www.youtube.com/watch?v=Qb4rvl8G7A8"
+                },
+                {
+                  "name": "Seated Cable Rows",
+                  "description": "An exercise targeting the back muscles using a cable machine.",
+                  "muscleGroups": ["Back"],
+                  "videoLink": "https://www.youtube.com/watch?v=k3LmROtibK0"
+                },
+                {
+                  "name": "Standing Barbell Calf Raises",
+                  "description": "An exercise targeting the calf muscles using a barbell.",
+                  "muscleGroups": ["Calves"],
+                  "videoLink": "https://www.youtube.com/watch?v=rgjLWTEVIzE"
+                },
+                {
+                  "name": "Hanging Leg Raises with Twist",
+                  "description": "A core exercise targeting the lower abs and obliques using a hanging leg raise with a twist.",
+                  "muscleGroups": ["Core", "Obliques"],
+                  "videoLink": "https://www.youtube.com/watch?v=xgE7mCA7qSc"
+                },
+                {
+                  "name": "Standing Overhead Tricep Extension",
+                  "description": "An isolation exercise targeting the triceps using a dumbbell or cable machine.",
+                  "muscleGroups": ["Triceps"],
+                  "videoLink": "https://www.youtube.com/watch?v=-fjwoR2jPYo"
+                },
+                {
+                  "name": "Smith Machine Squats",
+                  "description": "A squat variation using a smith machine for added stability.",
+                  "muscleGroups": ["Quadriceps", "Glutes", "Hamstrings"],
+                  "videoLink": "https://www.youtube.com/watch?v=QtMKeFAF5CI"
+                },
+                    {
+                      "name": "Pullovers",
+                      "description": "An exercise that targets the chest, back, and triceps.",
+                      "muscleGroups": ["Chest", "Back", "Triceps"],
+                      "videoLink": "https://www.youtube.com/watch?v=7MGlTFLtJX8"
+                    },
+                    {
+                      "name": "Reverse Crunches",
+                      "description": "An abdominal exercise targeting the lower abs.",
+                      "muscleGroups": ["Core", "Lower Abs"],
+                      "videoLink": "https://www.youtube.com/watch?v=_M2Etme-tfE"
+                    },
+                    {
+                      "name": "Lateral Lunges",
+                      "description": "A lower body exercise targeting the quadriceps, hamstrings, and adductors.",
+                      "muscleGroups": ["Quadriceps", "Hamstrings", "Adductors"],
+                      "videoLink": "https://www.youtube.com/watch?v=7p4KEWzJt9M"
+                    },
+                    {
+                      "name": "Dumbbell Front Raises",
+                      "description": "An isolation exercise targeting the anterior deltoids.",
+                      "muscleGroups": ["Shoulders"],
+                      "videoLink": "https://www.youtube.com/watch?v=r-2DEtQGEiY"
+                    },
+                    {
+                      "name": "Bent Over Rows",
+                      "description": "An exercise targeting the upper back, lats, and biceps.",
+                      "muscleGroups": ["Upper Back", "Lats", "Biceps"],
+                      "videoLink": "https://www.youtube.com/watch?v=YO_oHFRFbg4"
+                    },
+                    {
+                      "name": "Decline Sit-Ups",
+                      "description": "An abdominal exercise targeting the upper abs.",
+                      "muscleGroups": ["Core", "Upper Abs"],
+                      "videoLink": "https://www.youtube.com/watch?v=MDUqyM2eZCo"
+                    },
+                    {
+                      "name": "Hack Squats",
+                      "description": "A squat variation performed on a hack squat machine.",
+                      "muscleGroups": ["Quadriceps", "Glutes", "Hamstrings"],
+                      "videoLink": "https://www.youtube.com/watch?v=4xom4d6L6z0"
+                    },
+                    {
+                      "name": "Close-Grip Lat Pulldowns",
+                      "description": "An exercise targeting the upper back, lats, and biceps using a close-grip handle.",
+                      "muscleGroups": ["Upper Back", "Lats", "Biceps"],
+                      "videoLink": "https://www.youtube.com/watch?v=QmvaH_M8_V4"
+                    },
+                    {
+                      "name": "Swiss Ball Crunches",
+                      "description": "An abdominal exercise targeting the rectus abdominis.",
+                      "muscleGroups": ["Core", "Rectus Abdominis"],
+                      "videoLink": "https://www.youtube.com/watch?v=KqkcuHB8I8c"
+                    },
+                    {
+                      "name": "Reverse Lunges with Dumbbells",
+                      "description": "A lunge variation targeting the quadriceps, hamstrings, and glutes using dumbbells.",
+                      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+                      "videoLink": "https://www.youtube.com/watch?v=9HDQr4_XxWU"
+                    },
+                    {
+                      "name": "Cable Face Pulls",
+                      "description": "An exercise targeting the rear deltoids, traps, and upper back using a cable machine.",
+                      "muscleGroups": ["Shoulders", "Traps", "Upper Back"],
+                      "videoLink": "https://www.youtube.com/watch?v=HSoHeSjvIdY"
+                    },
+                    {
+                      "name": "Single-Leg Calf Raises",
+                      "description": "An exercise targeting the calf muscles performed on one leg at a time.",
+                      "muscleGroups": ["Calves"],
+                      "videoLink": "https://www.youtube.com/watch?v=hsb9TRO8a2E"
+                    },
+                    {
+                      "name": "Standing Dumbbell Tricep Extension",
+                      "description": "An isolation exercise targeting the triceps using dumbbells.",
+                      "muscleGroups": ["Triceps"],
+                      "videoLink": "https://www.youtube.com/watch?v=TnALjMfN6ko"
+                    },
+                    {
+                      "name": "Bulgarian Split Squats",
+                      "description": "A single-leg squat variation targeting the quadriceps, hamstrings, and glutes.",
+                      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+                      "videoLink": "https://www.youtube.com/watch?v=ZllkrIZwHxE"
+                    },
+                    {
+                      "name": "Russian Twists with Medicine Ball",
+                      "description": "A core exercise targeting the obliques using a medicine ball.",
+                      "muscleGroups": ["Core", "Obliques"],
+                      "videoLink": "https://www.youtube.com/watch?v=2WjL4oduwYY"
+                    },
+                  
+                        {
+                          "name": "Dumbbell Deadlifts",
+                          "description": "A variation of the deadlift performed with dumbbells, targeting the posterior chain.",
+                          "muscleGroups": ["Back", "Hamstrings", "Glutes"],
+                          "videoLink": "https://www.youtube.com/watch?v=W5B0JU_OstU"
+                        },
+                        {
+                          "name": "Kettlebell Swings",
+                          "description": "A full-body exercise that targets the hips, glutes, hamstrings, and core.",
+                          "muscleGroups": ["Glutes", "Hamstrings", "Core"],
+                          "videoLink": "https://www.youtube.com/watch?v=5zAkYxlFqJ0"
+                        },
+                        {
+                          "name": "Box Squats",
+                          "description": "A squat variation performed by sitting back onto a box or bench before standing up.",
+                          "muscleGroups": ["Quadriceps", "Glutes", "Hamstrings"],
+                          "videoLink": "https://www.youtube.com/watch?v=gWio46vTxg0"
+                        },
+                        {
+                          "name": "Plank Shoulder Taps",
+                          "description": "A core exercise that also engages the shoulders and arms by tapping alternating shoulders.",
+                          "muscleGroups": ["Core", "Shoulders"],
+                          "videoLink": "https://www.youtube.com/watch?v=HkqQ2Om51dQ"
+                        },
+                        {
+                          "name": "Dumbbell Bench Step-Ups",
+                          "description": "An exercise targeting the quadriceps, glutes, and hamstrings using a bench and dumbbells.",
+                          "muscleGroups": ["Quadriceps", "Glutes", "Hamstrings"],
+                          "videoLink": "https://www.youtube.com/watch?v=w6MFu7_KI8g"
+                        },
+                        {
+                          "name": "Decline Dumbbell Flyes",
+                          "description": "An isolation exercise targeting the lower chest using dumbbells on a decline bench.",
+                          "muscleGroups": ["Lower Chest"],
+                          "videoLink": "https://www.youtube.com/watch?v=rbft8I2qYdk"
+                        },
+                        {
+                          "name": "Single-Arm Dumbbell Rows",
+                          "description": "An exercise targeting the back muscles unilaterally using a dumbbell.",
+                          "muscleGroups": ["Back", "Biceps"],
+                          "videoLink": "https://www.youtube.com/watch?v=HqHrx78K4QA"
+                        },
+                        {
+                          "name": "Barbell Romanian Deadlifts",
+                          "description": "A deadlift variation focusing on the hamstrings and lower back using a barbell.",
+                          "muscleGroups": ["Hamstrings", "Lower Back"],
+                          "videoLink": "https://www.youtube.com/watch?v=jEy_czb3RKA"
+                        },
+                        {
+                          "name": "Standing Cable Chest Press",
+                          "description": "An exercise targeting the chest and triceps using a cable machine.",
+                          "muscleGroups": ["Chest", "Triceps"],
+                          "videoLink": "https://www.youtube.com/watch?v=RIuSlyvPzRE"
+                        },
+                        {
+                          "name": "Dumbbell Reverse Lunges",
+                          "description": "A lunge variation targeting the quadriceps, hamstrings, and glutes using dumbbells.",
+                          "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+                          "videoLink": "https://www.youtube.com/watch?v=TwD-YGVP4Bk"
+                        },
+                        {
+                          "name": "Cable Woodchoppers",
+                          "description": "An exercise targeting the core and obliques using a cable machine.",
+                          "muscleGroups": ["Core", "Obliques"],
+                          "videoLink": "https://www.youtube.com/watch?v=-ztlRFgE84o"
+                        },
+                        {
+                          "name": "Leg Press Machine Calf Raises",
+                          "description": "An isolation exercise targeting the calf muscles using a leg press machine.",
+                          "muscleGroups": ["Calves"],
+                          "videoLink": "https://www.youtube.com/watch?v=hUFnsm1r0BQ"
+                        },
+                        {
+                          "name": "Seated Dumbbell Shoulder Press",
+                          "description": "An exercise targeting the deltoids performed while seated with dumbbells.",
+                          "muscleGroups": ["Shoulders", "Triceps"],
+                          "videoLink": "https://www.youtube.com/watch?v=uo2h6cUCpz0"
+                        },
+                        {
+                          "name": "Reverse Hyperextensions",
+                          "description": "An exercise targeting the lower back and glutes using a hyperextension bench.",
+                          "muscleGroups": ["Lower Back", "Glutes"],
+                          "videoLink": "https://www.youtube.com/watch?v=b0BcSJF_vx0"
+                        },
+                        {
+                          "name": "Cable Rope Face Pulls",
+                          "description": "An exercise targeting the rear deltoids, traps, and upper back using a cable machine.",
+                          "muscleGroups": ["Shoulders", "Traps", "Upper Back"],
+                          "videoLink": "https://www.youtube.com/watch?v=KscfpL6QSro"
+                        },
+                
+                            {
+                              "name": "Barbell Hip Thrusts",
+                              "description": "A hip-dominant exercise targeting the glutes and hamstrings using a barbell.",
+                              "muscleGroups": ["Glutes", "Hamstrings"],
+                              "videoLink": "https://www.youtube.com/watch?v=jxvLNMg9TRU"
+                            },
+                            {
+                              "name": "Dumbbell Hammer Curls",
+                              "description": "An isolation exercise targeting the brachialis and brachioradialis using dumbbells.",
+                              "muscleGroups": ["Biceps", "Forearms"],
+                              "videoLink": "https://www.youtube.com/watch?v=nNlPBt1Vn1k"
+                            },
+                            {
+                              "name": "Incline Dumbbell Press",
+                              "description": "A variation of the bench press performed on an inclined bench to target the upper chest.",
+                              "muscleGroups": ["Upper Chest", "Shoulders", "Triceps"],
+                              "videoLink": "https://www.youtube.com/watch?v=bRFHtOMtTUM"
+                            },
+                            {
+                              "name": "Seated Leg Curls",
+                              "description": "An isolation exercise targeting the hamstrings using a leg curl machine.",
+                              "muscleGroups": ["Hamstrings"],
+                              "videoLink": "https://www.youtube.com/watch?v=jECAiFkbbp8"
+                            },
+                            {
+                              "name": "Cable Lateral Raises",
+                              "description": "An isolation exercise targeting the lateral deltoids using a cable machine.",
+                              "muscleGroups": ["Shoulders"],
+                              "videoLink": "https://www.youtube.com/watch?v=6QjKfjK9wok"
+                            },
+                            {
+                              "name": "Calf Press on Leg Press Machine",
+                              "description": "An isolation exercise targeting the calf muscles using a leg press machine.",
+                              "muscleGroups": ["Calves"],
+                              "videoLink": "https://www.youtube.com/watch?v=xJnFvS1VdKs"
+                            },
+                            {
+                              "name": "Seated Dumbbell Bicep Curls",
+                              "description": "An isolation exercise targeting the biceps using dumbbells while seated.",
+                              "muscleGroups": ["Biceps"],
+                              "videoLink": "https://www.youtube.com/watch?v=7lPf3bItzp4"
+                            },
+                            {
+                              "name": "Incline Reverse Crunches",
+                              "description": "An abdominal exercise targeting the lower abs using an inclined bench.",
+                              "muscleGroups": ["Core", "Lower Abs"],
+                              "videoLink": "https://www.youtube.com/watch?v=VcqRyJExwMI"
+                            },
+                            {
+                              "name": "Dumbbell Side Lateral Raises",
+                              "description": "An isolation exercise targeting the lateral deltoids using dumbbells.",
+                              "muscleGroups": ["Shoulders"],
+                              "videoLink": "https://www.youtube.com/watch?v=M4pZ9TqKFCA"
+                            },
+                            {
+                              "name": "Dumbbell Skull Crushers",
+                              "description": "An isolation exercise targeting the triceps using dumbbells.",
+                              "muscleGroups": ["Triceps"],
+                              "videoLink": "https://www.youtube.com/watch?v=-y3CQd-6OaM"
+                            },
+                            {
+                              "name": "Sumo Squats",
+                              "description": "A squat variation with a wide stance to target the inner thighs and glutes.",
+                              "muscleGroups": ["Inner Thighs", "Glutes"],
+                              "videoLink": "https://www.youtube.com/watch?v=4G2Zqj6AxSk"
+                            },
+                            {
+                              "name": "Standing Calf Raises with Dumbbells",
+                              "description": "An isolation exercise targeting the calf muscles using dumbbells.",
+                              "muscleGroups": ["Calves"],
+                              "videoLink": "https://www.youtube.com/watch?v=glJ_UhvMgK4"
+                            },
+                            {
+                              "name": "Lying Leg Curls",
+                              "description": "An isolation exercise targeting the hamstrings using a lying leg curl machine.",
+                              "muscleGroups": ["Hamstrings"],
+                              "videoLink": "https://www.youtube.com/watch?v=-WBd-9wlD6w"
+                            },
+                            {
+                              "name": "Cable Rope Tricep Pushdowns",
+                              "description": "An isolation exercise targeting the triceps using a cable machine and rope attachment.",
+                              "muscleGroups": ["Triceps"],
+                              "videoLink": "https://www.youtube.com/watch?v=W4YX0KhT4lU"
+                            },
+                            {
+                              "name": "Russian Twists with Medicine Ball",
+                              "description": "A core exercise targeting the obliques using a medicine ball.",
+                              "muscleGroups": ["Core", "Obliques"],
+                              "videoLink": "https://www.youtube.com/watch?v=nV4MFGqY4tU"
+                            },
+                  
+                                {
+                                  "name": "Jumping Lunges",
+                                  "description": "A plyometric exercise targeting the lower body, particularly the quadriceps, hamstrings, and glutes.",
+                                  "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+                                  "videoLink": "https://www.youtube.com/watch?v=mjhyXqjytc8"
+                                },
+                                {
+                                  "name": "Renegade Rows",
+                                  "description": "A compound exercise that targets the back, shoulders, and core while also improving stability and balance.",
+                                  "muscleGroups": ["Back", "Shoulders", "Core"],
+                                  "videoLink": "https://www.youtube.com/watch?v=J9yJ8jT3L18"
+                                },
+                                {
+                                  "name": "Standing Arnold Press",
+                                  "description": "A shoulder exercise that targets the deltoids, especially the anterior deltoid, named after Arnold Schwarzenegger.",
+                                  "muscleGroups": ["Shoulders"],
+                                  "videoLink": "https://www.youtube.com/watch?v=ZkzFTw8yKkw"
+                                },
+                                {
+                                  "name": "Pistol Squats",
+                                  "description": "A challenging single-leg squat variation that targets the quadriceps, hamstrings, glutes, and core.",
+                                  "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes", "Core"],
+                                  "videoLink": "https://www.youtube.com/watch?v=7J_TI_LCj3Y"
+                                },
+                                {
+                                  "name": "Inverted Rows",
+                                  "description": "A bodyweight exercise targeting the back, particularly the upper back and lats.",
+                                  "muscleGroups": ["Back"],
+                                  "videoLink": "https://www.youtube.com/watch?v=kiA9j-dR0oM"
+                                },
+                                {
+                                  "name": "Reverse Grip Bent-Over Rows",
+                                  "description": "An exercise that targets the upper back, lats, and biceps using a reverse grip.",
+                                  "muscleGroups": ["Back", "Biceps"],
+                                  "videoLink": "https://www.youtube.com/watch?v=XlV-7fU5l0E"
+                                },
+                                {
+                                  "name": "Dragon Flags",
+                                  "description": "An advanced core exercise that targets the rectus abdominis and obliques.",
+                                  "muscleGroups": ["Core"],
+                                  "videoLink": "https://www.youtube.com/watch?v=4NEr5Kep8c4"
+                                },
+                                {
+                                  "name": "Overhead Dumbbell Tricep Extension",
+                                  "description": "An isolation exercise targeting the triceps using dumbbells.",
+                                  "muscleGroups": ["Triceps"],
+                                  "videoLink": "https://www.youtube.com/watch?v=L_F_sMf6eGY"
+                                },
+                                {
+                                  "name": "Plank Up-Downs",
+                                  "description": "A dynamic plank variation that targets the core, shoulders, and arms.",
+                                  "muscleGroups": ["Core", "Shoulders", "Arms"],
+                                  "videoLink": "https://www.youtube.com/watch?v=1Xn-Uq_GcwI"
+                                },
+                                {
+                                  "name": "Good Mornings",
+                                  "description": "A lower back and hamstring exercise performed by hinging at the hips and leaning forward.",
+                                  "muscleGroups": ["Lower Back", "Hamstrings"],
+                                  "videoLink": "https://www.youtube.com/watch?v=Jh8J5qo6VBc"
+                                },
+                                {
+                                  "name": "Cable Rope Face Pulls",
+                                  "description": "An exercise targeting the rear deltoids, traps, and upper back using a cable machine.",
+                                  "muscleGroups": ["Shoulders", "Traps", "Upper Back"],
+                                  "videoLink": "https://www.youtube.com/watch?v=6CL8oQWTx7s"
+                                },
+                                {
+                                  "name": "Zottman Curls",
+                                  "description": "An exercise that targets the biceps and forearms, involving both supination and pronation of the wrists.",
+                                  "muscleGroups": ["Biceps", "Forearms"],
+                                  "videoLink": "https://www.youtube.com/watch?v=3mFghJ5f_5Q"
+                                },
+                                {
+                                  "name": "Single-Leg Glute Bridge",
+                                  "description": "A glute activation exercise performed unilaterally to improve hip stability and strength.",
+                                  "muscleGroups": ["Glutes", "Hamstrings"],
+                                  "videoLink": "https://www.youtube.com/watch?v=2xWQxGf2fIA"
+                                },
+                                {
+                                  "name": "Cable Wood Chops",
+                                  "description": "An exercise that targets the core and obliques using a cable machine.",
+                                  "muscleGroups": ["Core", "Obliques"],
+                                  "videoLink": "https://www.youtube.com/watch?v=MYszsXvPctw"
+                                },
+                                {
+                                  "name": "Spider Curls",
+                                  "description": "An isolation exercise that targets the biceps with a focus on peak contraction.",
+                                  "muscleGroups": ["Biceps"],
+                                  "videoLink": "https://www.youtube.com/watch?v=gfJCaq4l7mI"
+                                },
+                            
+                                    {
+                                      "name": "Barbell Bent-Over Rows",
+                                      "description": "A compound exercise targeting the back, particularly the lats, rhomboids, and traps.",
+                                      "muscleGroups": ["Back", "Lats", "Rhomboids", "Traps"],
+                                      "videoLink": "https://www.youtube.com/watch?v=G8l_8chR5BE"
+                                    },
+                                    {
+                                      "name": "Dumbbell Renegade Rows",
+                                      "description": "A full-body exercise that targets the back, shoulders, and core while also improving stability and balance.",
+                                      "muscleGroups": ["Back", "Shoulders", "Core"],
+                                      "videoLink": "https://www.youtube.com/watch?v=FFktCc7HmPE"
+                                    },
+                                    {
+                                      "name": "Single-Leg Romanian Deadlifts with Dumbbells",
+                                      "description": "A unilateral exercise targeting the hamstrings, glutes, and lower back using dumbbells.",
+                                      "muscleGroups": ["Hamstrings", "Glutes", "Lower Back"],
+                                      "videoLink": "https://www.youtube.com/watch?v=jEyv6PobDFk"
+                                    },
+                                    {
+                                      "name": "Barbell Front Squats",
+                                      "description": "A squat variation that targets the quadriceps, glutes, and core with the barbell placed in front of the body.",
+                                      "muscleGroups": ["Quadriceps", "Glutes", "Core"],
+                                      "videoLink": "https://www.youtube.com/watch?v=nlV25mFUPqc"
+                                    },
+                                    {
+                                      "name": "Seated Cable Rows",
+                                      "description": "An exercise targeting the back muscles using a cable machine.",
+                                      "muscleGroups": ["Back"],
+                                      "videoLink": "https://www.youtube.com/watch?v=k3LmROtibK0"
+                                    },
+                                    {
+                                      "name": "Lying Leg Raises",
+                                      "description": "An isolation exercise targeting the lower abs.",
+                                      "muscleGroups": ["Lower Abs"],
+                                      "videoLink": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+                                    },
+                                    {
+                                      "name": "Cable Reverse Flyes",
+                                      "description": "An exercise targeting the rear deltoids, traps, and rhomboids using a cable machine.",
+                                      "muscleGroups": ["Shoulders", "Traps", "Rhomboids"],
+                                      "videoLink": "https://www.youtube.com/watch?v=bcl0zTpuGvY"
+                                    },
+                                    {
+                                      "name": "Diamond Push-Ups",
+                                      "description": "An advanced variation of the push-up that targets the triceps and chest.",
+                                      "muscleGroups": ["Triceps", "Chest"],
+                                      "videoLink": "https://www.youtube.com/watch?v=Jh9K0MjYmg0"
+                                    },
+                                    {
+                                      "name": "Seated Leg Extensions",
+                                      "description": "An isolation exercise targeting the quadriceps using a leg extension machine.",
+                                      "muscleGroups": ["Quadriceps"],
+                                      "videoLink": "https://www.youtube.com/watch?v=ybN6FjdQkHc"
+                                    },
+                                    {
+                                      "name": "Standing Dumbbell Shrugs",
+                                      "description": "An exercise targeting the traps using dumbbells.",
+                                      "muscleGroups": ["Traps"],
+                                      "videoLink": "https://www.youtube.com/watch?v=SnHNbF1DZsI"
+                                    },
+                                    {
+                                      "name": "Seated Leg Press",
+                                      "description": "A compound exercise targeting the quadriceps, hamstrings, and glutes using a leg press machine.",
+                                      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+                                      "videoLink": "https://www.youtube.com/watch?v=Km4WpFuVlT0"
+                                    },
+                                    {
+                                      "name": "Plank with Leg Lifts",
+                                      "description": "A core exercise that also engages the glutes and hamstrings by lifting one leg at a time while in a plank position.",
+                                      "muscleGroups": ["Core", "Glutes", "Hamstrings"],
+                                      "videoLink": "https://www.youtube.com/watch?v=bx86WYf9WjU"
+                                    },
+                                    {
+                                      "name": "Seated Arnold Press",
+                                      "description": "A shoulder exercise similar to the standing Arnold press, but performed while seated.",
+                                      "muscleGroups": ["Shoulders"],
+                                      "videoLink": "https://www.youtube.com/watch?v=Ww2UZXoiM0I"
+                                    },
+                                    {
+                                      "name": "Cable Rope Hammer Curls",
+                                      "description": "An isolation exercise targeting the biceps using a cable machine and rope attachment.",
+                                      "muscleGroups": ["Biceps"],
+                                      "videoLink": "https://www.youtube.com/watch?v=bWeAk8i9jPQ"
+                                    },
+                                    {
+                                      "name": "Bosu Ball Russian Twists",
+                                      "description": "A core exercise that targets the obliques using a Bosu ball for instability.",
+                                      "muscleGroups": ["Core", "Obliques"],
+                                      "videoLink": "https://www.youtube.com/watch?v=88aboWR7p-w"
+                                    },
+
+              
+    {
+      "name": "Barbell Bench Press",
+      "description": "A compound exercise that primarily targets the chest muscles, with secondary involvement of the shoulders and triceps.",
+      "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+    },
+    {
+      "name": "Pull-Ups",
+      "description": "A bodyweight exercise targeting the back, particularly the lats, with secondary involvement of the biceps and shoulders.",
+      "muscleGroups": ["Back", "Lats", "Biceps", "Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+    },
+    {
+      "name": "Dumbbell Lunges",
+      "description": "A unilateral lower body exercise targeting the quadriceps, hamstrings, and glutes.",
+      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=jjQ9u48lTp8"
+    },
+    {
+      "name": "Dumbbell Shoulder Press",
+      "description": "An overhead pressing exercise targeting the deltoids, with secondary involvement of the triceps.",
+      "muscleGroups": ["Shoulders", "Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=vthMCtgVtFw"
+    },
+    {
+      "name": "Romanian Deadlifts",
+      "description": "A hip-hinge exercise that targets the hamstrings and lower back while placing less stress on the quadriceps.",
+      "muscleGroups": ["Hamstrings", "Lower Back"],
+      "videoLink": "https://www.youtube.com/watch?v=_LhYspMFUmE"
+    },
+    {
+      "name": "Push-Ups",
+      "description": "A classic bodyweight exercise targeting the chest, shoulders, and triceps.",
+      "muscleGroups": ["Chest", "Shoulders", "Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+    },
+    {
+      "name": "Barbell Bicep Curls",
+      "description": "An isolation exercise targeting the biceps using a barbell.",
+      "muscleGroups": ["Biceps"],
+      "videoLink": "https://www.youtube.com/watch?v=HzhrUIcP1qI"
+    },
+    {
+      "name": "Russian Twists",
+      "description": "A core exercise that targets the obliques and helps improve rotational strength.",
+      "muscleGroups": ["Core", "Obliques"],
+      "videoLink": "https://www.youtube.com/watch?v=wkD8rjkodUI"
+    },
+    {
+      "name": "Leg Press",
+      "description": "A compound exercise targeting the quadriceps, hamstrings, and glutes using a leg press machine.",
+      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=rjqxjP0i4Qg"
+    },
+    {
+      "name": "Tricep Dips",
+      "description": "A bodyweight exercise that primarily targets the triceps, with secondary involvement of the shoulders and chest.",
+      "muscleGroups": ["Triceps", "Shoulders", "Chest"],
+      "videoLink": "https://www.youtube.com/watch?v=2z8JmcrW-As"
+    },
+    {
+      "name": "Seated Cable Rows",
+      "description": "An exercise targeting the back muscles using a cable machine.",
+      "muscleGroups": ["Back"],
+      "videoLink": "https://www.youtube.com/watch?v=J6jgViw-djY"
+    },
+    {
+      "name": "Hammer Curls",
+      "description": "An isolation exercise targeting the biceps and brachialis muscles.",
+      "muscleGroups": ["Biceps", "Brachialis"],
+      "videoLink": "https://www.youtube.com/watch?v=TwD-YGVP4Bk"
+    },
+    {
+      "name": "Plank",
+      "description": "A core exercise that engages multiple muscle groups, including the abs, back, shoulders, and glutes, to improve core strength and stability.",
+      "muscleGroups": ["Core", "Abs", "Back", "Shoulders", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+    },
+    {
+      "name": "Seated Leg Curl",
+      "description": "An isolation exercise targeting the hamstrings using a leg curl machine.",
+      "muscleGroups": ["Hamstrings"],
+      "videoLink": "https://www.youtube.com/watch?v=BEn61BL4Nwk"
+    },
+    {
+      "name": "Reverse Crunches",
+      "description": "An abdominal exercise targeting the lower abs.",
+      "muscleGroups": ["Core", "Lower Abs"],
+      "videoLink": "https://www.youtube.com/watch?v=Su6Ct9AHAy0"
+    },
+    {
+      "name": "Barbell Deadlift",
+      "description": "A compound exercise that targets multiple muscle groups including the back, hamstrings, glutes, and grip strength.",
+      "muscleGroups": ["Back", "Hamstrings", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=1ZXobuHsJxs"
+    },
+    {
+      "name": "Lat Pulldowns",
+      "description": "An exercise primarily targeting the latissimus dorsi (lats), with secondary involvement of the biceps, shoulders, and upper back.",
+      "muscleGroups": ["Lats", "Biceps", "Shoulders", "Upper Back"],
+      "videoLink": "https://www.youtube.com/watch?v=hbQvN5s9kg0"
+    },
+    {
+      "name": "Dumbbell Step-Ups",
+      "description": "A unilateral lower body exercise targeting the quadriceps, hamstrings, and glutes, with focus on stability and balance.",
+      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=Qzwb97r-c60"
+    },
+    {
+      "name": "Dumbbell Lateral Raises",
+      "description": "An isolation exercise targeting the lateral deltoids (shoulders), helping to improve shoulder width and definition.",
+      "muscleGroups": ["Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=OxZTzOTktWI"
+    },
+    {
+      "name": "Cable Crunches",
+      "description": "A core exercise that primarily targets the rectus abdominis (six-pack muscles), helping to improve abdominal strength and definition.",
+      "muscleGroups": ["Core", "Abs"],
+      "videoLink": "https://www.youtube.com/watch?v=MDuAidAg4DM"
+    },
+    {
+      "name": "Leg Extensions",
+      "description": "An isolation exercise targeting the quadriceps using a leg extension machine.",
+      "muscleGroups": ["Quadriceps"],
+      "videoLink": "https://www.youtube.com/watch?v=Fn0yXRb0NnI"
+    },
+    {
+      "name": "Barbell Upright Rows",
+      "description": "An exercise targeting the traps, deltoids, and upper back, primarily focusing on shoulder elevation and abduction.",
+      "muscleGroups": ["Traps", "Shoulders", "Upper Back"],
+      "videoLink": "https://www.youtube.com/watch?v=H0U56K7cRbg"
+    },
+    {
+      "name": "Tricep Rope Pushdowns",
+      "description": "An isolation exercise targeting the triceps using a cable machine and rope attachment.",
+      "muscleGroups": ["Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=OyUW5OUU3GM"
+    },
+    {
+      "name": "Hanging Leg Raises",
+      "description": "An advanced core exercise targeting the lower abs and hip flexors, performed by hanging from a pull-up bar.",
+      "muscleGroups": ["Core", "Lower Abs", "Hip Flexors"],
+      "videoLink": "https://www.youtube.com/watch?v=clmg_1cVcWc"
+    },
+    {
+      "name": "Seated Calf Raises",
+      "description": "An isolation exercise targeting the calf muscles using a calf raise machine or dumbbells.",
+      "muscleGroups": ["Calves"],
+      "videoLink": "https://www.youtube.com/watch?v=YQ8eB_K3cb0"
+    },
+    {
+      "name": "Dumbbell Pullovers",
+      "description": "An exercise targeting the chest, back, and serratus anterior muscles, performed using a dumbbell while lying on a bench.",
+      "muscleGroups": ["Chest", "Back", "Serratus Anterior"],
+      "videoLink": "https://www.youtube.com/watch?v=nLB2x21Z9hQ"
+    },
+    {
+      "name": "Cable Face Pulls",
+      "description": "An exercise targeting the rear deltoids, traps, and rotator cuff muscles, helping to improve posture and shoulder health.",
+      "muscleGroups": ["Shoulders", "Traps", "Rotator Cuff"],
+      "videoLink": "https://www.youtube.com/watch?v=HSoHeSjvIdY"
+    },
+    {
+      "name": "Incline Dumbbell Curls",
+      "description": "An isolation exercise targeting the biceps, performed on an incline bench to emphasize the long head of the biceps.",
+      "muscleGroups": ["Biceps"],
+      "videoLink": "https://www.youtube.com/watch?v=7b7x5S0A6V0"
+    },
+    {
+      "name": "Reverse Lunges",
+      "description": "A variation of the lunge exercise performed by stepping backward, targeting the quadriceps, hamstrings, and glutes.",
+      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=JCXUYuzwNrM"
+    },
+    {
+      "name": "Plank with Shoulder Taps",
+      "description": "A core exercise that targets the abs, obliques, and shoulders, performed in a plank position with alternating shoulder taps.",
+      "muscleGroups": ["Core", "Abs", "Obliques", "Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=eOJ1_4jwHwQ"
+    },
+    
+    {
+      "name": "Bulgarian Split Squats",
+      "description": "A unilateral lower body exercise targeting the quadriceps, hamstrings, and glutes, performed with one leg elevated on a bench.",
+      "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
+      "videoLink": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+    },
+    {
+      "name": "Dumbbell Front Raises",
+      "description": "An isolation exercise targeting the anterior deltoids (front shoulders), helping to improve shoulder strength and stability.",
+      "muscleGroups": ["Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=7Nl2dP1uV5A"
+    },
+    {
+      "name": "Cable Woodchoppers",
+      "description": "An exercise that targets the core, obliques, and shoulders, performed using a cable machine with a rotating motion.",
+      "muscleGroups": ["Core", "Obliques", "Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=NsS2cZugVEM"
+    },
+    {
+      "name": "Dumbbell Rear Delt Flyes",
+      "description": "An isolation exercise targeting the rear deltoids (shoulders), helping to improve shoulder stability and posture.",
+      "muscleGroups": ["Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=X2wT_cDLKlc"
+    },
+    {
+      "name": "Calf Raises on Leg Press Machine",
+      "description": "An isolation exercise targeting the calf muscles, performed using a leg press machine.",
+      "muscleGroups": ["Calves"],
+      "videoLink": "https://www.youtube.com/watch?v=PGh6b35k8V4"
+    },
+    {
+      "name": "Hamstring Curls",
+      "description": "An isolation exercise targeting the hamstrings, typically performed using a seated or lying leg curl machine.",
+      "muscleGroups": ["Hamstrings"],
+      "videoLink": "https://www.youtube.com/watch?v=_An1nRR0Z9Q"
+    },
+    {
+      "name": "Dumbbell Bent-Over Reverse Flies",
+      "description": "An exercise targeting the rear deltoids, rhomboids, and upper back, performed with a bent-over position and dumbbells.",
+      "muscleGroups": ["Shoulders", "Rhomboids", "Upper Back"],
+      "videoLink": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+    },
+    {
+      "name": "Seated Arnold Dumbbell Press",
+      "description": "A shoulder exercise similar to the standing Arnold press, but performed in a seated position.",
+      "muscleGroups": ["Shoulders"],
+      "videoLink": "https://www.youtube.com/watch?v=-rAfjsKb2Lg"
+    },
+    {
+      "name": "Single-Leg Glute Bridges",
+      "description": "An exercise that targets the glutes and hamstrings, performed unilaterally to address muscle imbalances.",
+      "muscleGroups": ["Glutes", "Hamstrings"],
+      "videoLink": "https://www.youtube.com/watch?v=b33rs4F0ttI"
+    },
+    {
+      "name": "Dumbbell Romanian Deadlifts",
+      "description": "A variation of the Romanian deadlift performed with dumbbells, targeting the hamstrings, glutes, and lower back.",
+      "muscleGroups": ["Hamstrings", "Glutes", "Lower Back"],
+      "videoLink": "https://www.youtube.com/watch?v=VyzhLlRaIR4"
+    },
+    {
+      "name": "Dumbbell Skull Crushers",
+      "description": "An isolation exercise targeting the triceps, performed lying on a bench with dumbbells.",
+      "muscleGroups": ["Triceps"],
+      "videoLink": "https://www.youtube.com/watch?v=QpT5IkcZ7bw"
+    },
+    {
+      "name": "Dumbbell Farmer's Walk",
+      "description": "A functional exercise that targets the grip, forearms, and overall body stability, performed by walking with dumbbells held at the sides.",
+      "muscleGroups": ["Forearms", "Grip", "Stability"],
+      "videoLink": "https://www.youtube.com/watch?v=1TX6xUNyVjU"
+    },
+    {
+      "name": "Seated Leg Press Machine Calf Raises",
+      "description": "An isolation exercise targeting the calf muscles, performed using a leg press machine with a focus on calf extension.",
+      "muscleGroups": ["Calves"],
+      "videoLink": "https://www.youtube.com/watch?v=29DCUpFNtkE"
+    },
+    {
+      "name": "Dumbbell Wrist Curls",
+      "description": "An exercise targeting the forearm flexors, performed by curling the wrists while seated.",
+      "muscleGroups": ["Forearms"],
+      "videoLink": "https://www.youtube.com/watch?v=dkOKTByTPvA"
+    },
+    {
+      "name": "Seated Cable Bicep Curls",
+      "description": "An isolation exercise targeting the biceps using a cable machine and seated position.",
+      "muscleGroups": ["Biceps"],
+      "videoLink": "https://www.youtube.com/watch?v=hG1Xte-RgMo"
+    }
+  
+
+
+
+
+                                
+                                
+                          
+                            
+                    
+                        
+                      
+                    
+        
+                
+            
+            
+          
+        
+      
+    
+    
+  ]
+}
