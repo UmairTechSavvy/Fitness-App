@@ -45,6 +45,40 @@ body{
   width: calc(30% - 20px); /* Set the width to 30% minus the padding */
   display: inline-block; /* Display the paragraph as inline-block */
   vertical-align: middle; /* Align the paragraph vertically */
+  left: 8px;
+  bottom: 30px;
+}
+.para1 {
+  text-align: left; /* Align the text to the left */
+  padding: 20px; /* Add padding for spacing */
+  font-family: Arial, sans-serif; /* Set the font family */
+  font-size: 16px; /* Set the font size */
+  color: #333; /* Set the text color */
+  background-color: #f9f9f9; /* Add a light background color */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a shadow */
+  line-height: 1.6; /* Set the line height for better readability */
+  width: calc(30% - 20px); /* Set the width to 30% minus the padding */
+  display: inline-block; /* Display the paragraph as inline-block */
+  position: absolute; /* Set the position to absolute */
+  bottom: 105px; /* Align the paragraph to the bottom */
+  left: 8px; /* Align the paragraph to the left */
+}
+.para2 {
+  text-align: left; /* Align the text to the left */
+  padding: 20px; /* Add padding for spacing */
+  font-family: Arial, sans-serif; /* Set the font family */
+  font-size: 16px; /* Set the font size */
+  color: #333; /* Set the text color */
+  background-color: #f9f9f9; /* Add a light background color */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a shadow */
+  line-height: 1.6; /* Set the line height for better readability */
+  width: calc(30% - 20px); /* Set the width to 30% minus the padding */
+  display: inline-block; /* Display the paragraph as inline-block */
+  position: absolute; /* Set the position to absolute */
+  bottom: 1px; /* Align the paragraph to the bottom */
+  left: 8px; /* Align the paragraph to the left */
 }
 
 .head1{
@@ -123,6 +157,78 @@ color: red;
 
   }
 
+
+  .pagination {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 30px;
+  }
+  
+  .pagination li {
+    display: inline-block;
+    margin-right: 5px; /* Adjust as needed */
+    padding: 20px;
+    color: black;
+  
+  }
+  
+  .pagination li:last-child {
+    margin-right: 0;
+  }
+  
+  .pages-link {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+    background-color: #f0f0f0;
+    border-radius: 3px;
+    color: black;
+  }
+  
+  .pages-link:hover {
+  color: red;
+  }
+  
+
+  .nav1{
+
+    margin-left: 82px;
+    color: white;
+    width: 20px;
+    padding: 40px;
+    text-decoration: underline;
+  }
+  .nav2{
+    margin-left: 400px;
+    color: white;
+    width: 20px;
+    padding: 40px;
+    text-decoration: underline;
+  }
+  .nav3{
+
+margin-left: 100px;
+
+color: white;
+width: 20px;
+padding: 40px;
+text-decoration: underline;
+
+  }
+  .list3{
+
+    color: wheat;
+  }
+
+  .footer{
+background-color: wheat;
+margin-top: 600px;
+padding: 80px;
+
+  }
 
 
 

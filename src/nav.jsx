@@ -11,7 +11,11 @@ const Nav = ()=>{
 <ul>
 
 <li >
-<Link to="/Exercises" >Exercises</Link>
+<Link to="/" className='nav2'>Home</Link>
+<Link to="/Exercises" className='nav1' >Exercises</Link>
+<Link to="/Health" className='nav3'>Health</Link>
+
+
 
 </li>
 
