@@ -1,5 +1,14 @@
 body{
   background: black;
+  border: 5px inset royalblue;
+}
+.navbar{
+
+  background-color: rebeccapurple;
+  padding: 30px;
+  border-bottom-left-radius: 10px;
+  border: 5px inset black;
+
 }
 
 .container {
@@ -8,10 +17,13 @@ body{
 }
 
 .llogo {
-  width: 100px;
-  padding: 10px;
+  position: absolute;
+  width: 80px;
+  left: 20px;
   border-radius: 30px;
-  margin-left: 10px; /* Simplified border-radius */
+  margin-left: 5px; /* Simplified border-radius */
+  margin-top: auto;
+  top: 32px;
 }
 
 .first {
@@ -225,10 +237,265 @@ text-decoration: underline;
 
   .footer{
 background-color: wheat;
-margin-top: 600px;
+margin-top: 400px;
 padding: 80px;
 
   }
+  .cont1{
+
+
+padding-top: 40px;
+width: 190px;
+text-align: center;
+border-radius: 30px;
+bottom: 30px;
+
+  }
+  .number:hover{
+
+    color: blue;
+    
+  }
+/* Styling for the social media icons */
+/* Styling for the social media icons */
+/* Styling for the social media icons */
+.op1,.op2,.op3 {
+  display: inline-block;
+  margin-right: 15px;
+  border-radius: 50px;
+  border:20px inset black;
+}
+.wlink{
+
+  display: inline-block;
+  margin-right: 15px;
+  border-radius: 60px;
+  border:20px inset black;
+
+}
+
+
+.op1:hover,.op2:hover , .op3:hover{
+
+border: 40px inset brown;
+
+}
+
+/* Styling for the links */
+.link11, .link22,.link33  {
+  text-decoration: none;
+  color: blue;
+  transition: color 0.3s ease; /* Smooth transition on hover */
+  font-family: Arial, sans-serif; /* Use a common font for consistency */
+}
 
 
 
+.link11:hover, .link22:hover, .link33:hover {
+  color: #E1306C; /* Change color on hover */
+}
+
+/* Styling for the icons */
+.FaInstagram,
+.FaFacebook,
+.FaLinkedin {
+  font-size: 40px; /* Increase icon size */
+  vertical-align: middle; /* Align icon vertically */
+  margin-right: 10px; /* Adjust spacing between icon and text */
+  border-color: #E1306C;
+}
+
+.linkcon{
+
+
+padding-top: 40px;
+width: 230px;
+text-align: center;
+
+margin-right: 300px;
+
+}
+.linkcon1{
+
+
+ 
+  padding-top: 40px;
+  width: 230px;
+  text-align: center;
+
+  margin-right: 300px;
+ 
+
+}
+
+.linkcon2{
+
+ 
+  padding-top: 40px;
+  width: 230px;
+  text-align: center;
+  
+  margin-right: 300px;
+
+
+
+}
+
+
+.homeH{
+
+color: wheat;
+
+
+
+}
+
+/* Style for search input */
+.sea {
+  height: 40px;
+  padding: 10px;
+  width: 300px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-left: 20px;
+  margin-right: 10px; /* Adjust as needed */
+}
+
+
+/* Style for search button */
+.btn {
+  height: 40px;
+  padding: 10px 20px; /* Add more padding horizontally */
+  border-radius: 4px;
+  background-color: lightskyblue;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add smooth transition */
+  margin-top: 390px;
+}
+
+.btn:hover {
+  background-color: dodgerblue; /* Change background color on hover */
+}
+
+/* Style for the image */
+.doc {
+  height: 500px; /* Adjust height as needed */
+  width: 500px; /* Adjust width as needed */
+  border-radius: 50%; /* Make it circular */
+  border: 3px solid black;
+  margin-left: 600px;
+  margin-top: -380px;
+}
+.doc2{
+
+  height: 200px;
+  width: 500px;
+  padding: 30px;
+  margin-top: 50px ;
+  margin-right: 100px;
+  border-radius: 50%;
+  left: 300px;
+
+
+
+
+
+}
+
+/* Style for the container of the paragraph */
+.conh123 {
+  margin-top: 20px; /* Adjust spacing as needed */
+}
+
+/* Style for the paragraph */
+
+
+
+
+
+
+.h123{
+
+  text-align: left; /* Align the text to the left */
+  padding: 20px; /* Add padding for spacing */
+  font-family: Arial, sans-serif; /* Set the font family */
+  font-size: 16px; /* Set the font size */
+  color: #333; /* Set the text color */
+  background-color: #f9f9f9; /* Add a light background color */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a shadow */
+  line-height: 1.6; /* Set the line height for better readability */
+  width: calc(30% - 20px); /* Set the width to 30% minus the padding */
+  display: inline-block; /* Display the paragraph as inline-block */
+  position: absolute; /* Set the position to absolute */
+  bottom: 200px; /* Align the paragraph to the bottom */
+  left: 22px; /* Align the paragraph to the left */
+
+}
+
+/* DIET */
+
+.diet{
+
+color: wheat;
+
+}
+
+.nav4{
+
+color: wheat;
+position: absolute;
+left: 1180px;
+
+}
+
+.listd{
+color: black;
+
+}
+
+.dietcon{
+margin-top: -15px;
+background-color: aqua;
+
+
+
+}
+.back{
+
+  color: red;
+}
+
+.back:hover{
+
+color: blue;
+border:4px solid blue;
+
+}
+
+.gymlogo{
+
+width: 1200px;
+
+
+}
+
+.ARTICLE{
+
+text-align: center;
+
+font-size: 2rem;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.ARTICLE:hover{
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

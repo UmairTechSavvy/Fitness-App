@@ -1,23 +1,30 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Fixtures from "./fixtures";
 import Exercises from "./Exercises";
+import Nav from './nav';
 import Health from './health';
-import Nav from './nav'
+import Diet from './diett';
 
 const App = () => {
+  
+
   return (
     <div>
       <BrowserRouter>
-      <Nav />
+        <Nav />
         <Routes>
-          <Route path="/" element={<Fixtures />} />
+          <Route path="/" element={<Fixtures/>} />
           <Route path="/exercises" element={<Exercises />} />
-          <Route path='/health' element={<Health />} />
+          <Route path='/health' element={ <Health />} />
+          <Route path='/diet' element={<Diet />} />
         </Routes>
       </BrowserRouter>
     </div>
   );
 };
 
+
+
 export default App;
+

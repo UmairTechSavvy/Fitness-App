@@ -11,7 +11,31 @@
         "Consider working with a personal trainer to develop a balanced workout plan."
       ],
       "video_link": "https://www.youtube.com/watch?v=g09P0kJwR4I"
+    },{
+      "issue": "Bicep Tendinitis",
+      "description": "Bicep tendinitis is inflammation or irritation of the bicep tendon, which can cause pain and discomfort in the front of the shoulder and upper arm.",
+      "pain_area": "Bicep",
+      "prevention_tips": [
+        "Warm up properly before engaging in activities that stress the biceps.",
+        "Avoid overuse of the biceps and allow for adequate rest between workouts.",
+        "Strengthen the muscles surrounding the biceps to provide support and stability.",
+        "Use proper form and technique during exercises to reduce strain on the biceps tendon."
+      ],
+      "video_link": "https://www.youtube.com/watch?v=ZS-7z8hGWfY"
     },
+    {
+      "issue": "Bicep Strain",
+      "description": "A bicep strain occurs when the bicep muscle is stretched or torn, resulting in pain, weakness, and swelling in the front of the upper arm.",
+      "pain_area": "Bicep",
+      "prevention_tips": [
+        "Gradually increase the intensity and duration of bicep exercises to avoid strain.",
+        "Use proper lifting techniques and avoid lifting weights that are too heavy.",
+        "Incorporate flexibility exercises to improve the range of motion in the biceps.",
+        "Listen to your body and stop exercising if you experience pain or discomfort."
+      ],
+      "video_link": "https://www.youtube.com/watch?v=cwNLMKQ_yA0"
+    },
+   
     {
       "issue": "Joint Pain",
       "description": "Joint pain can occur due to overuse, improper form during exercises, or underlying conditions such as arthritis. It can affect various joints in the body, including knees, shoulders, and elbows.",
@@ -181,6 +205,54 @@
             "video_link": "https://www.youtube.com/watch?v=3JyZSew29aI"
           },
           {
+            "issue": "Trapezius Strain",
+            "description": "A trapezius strain occurs when the trapezius muscle is stretched or torn, leading to pain, stiffness, and limited range of motion in the upper back and neck area.",
+            "pain_area": "Traps",
+            "prevention_tips": [
+              "Maintain good posture to reduce strain on the trapezius muscles.",
+              "Avoid carrying heavy loads on one shoulder, as this can cause uneven muscle tension.",
+              "Stretch and strengthen the trapezius muscles regularly to improve flexibility and stability.",
+              "Take frequent breaks from activities that require prolonged sitting or standing to prevent muscle fatigue."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=z7hPrGat3dc"
+          },
+          {
+            "issue": "Deltoid Impingement Syndrome",
+            "description": "Deltoid impingement syndrome occurs when the deltoid muscle becomes compressed or irritated, leading to pain, weakness, and limited shoulder movement.",
+            "pain_area": "Delts",
+            "prevention_tips": [
+              "Avoid repetitive overhead activities that put excessive strain on the deltoid muscles.",
+              "Strengthen the muscles surrounding the shoulder joint to provide support and stability.",
+              "Practice proper lifting techniques to avoid excessive stress on the shoulders.",
+              "Incorporate shoulder stretches and range of motion exercises into your daily routine to maintain flexibility."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=2fJuWFBW0uc"
+          },
+          {
+            "issue": "Rotator Cuff Tear",
+            "description": "A rotator cuff tear is a common injury involving a tear or damage to the muscles and tendons of the rotator cuff, resulting in pain, weakness, and limited shoulder movement.",
+            "pain_area": "Delts",
+            "prevention_tips": [
+              "Warm up properly before engaging in activities that stress the shoulder joint.",
+              "Strengthen the rotator cuff muscles with targeted exercises to improve stability and reduce the risk of injury.",
+              "Avoid repetitive overhead motions and heavy lifting that can strain the rotator cuff.",
+              "Listen to your body and stop activities that cause pain or discomfort in the shoulder."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=ZU6nEZtVh7Q"
+          },
+          {
+            "issue": "Shoulder Impingement Syndrome",
+            "description": "Shoulder impingement syndrome occurs when the rotator cuff tendons become irritated or inflamed, leading to pain, weakness, and limited range of motion in the shoulder.",
+            "pain_area": "Delts",
+            "prevention_tips": [
+              "Maintain good posture and avoid activities that place excessive strain on the shoulders.",
+              "Strengthen the muscles surrounding the shoulder joint to improve stability and reduce the risk of impingement.",
+              "Use proper lifting techniques and avoid carrying heavy loads with extended arms.",
+              "Incorporate shoulder stretches and range of motion exercises into your daily routine to maintain flexibility."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=p8WC5zg4c8E"
+          },
+          {
             "issue": "IT Band Syndrome",
             "description": "IT band syndrome is inflammation of the iliotibial band, a thick band of tissue that runs along the outside of the thigh. It commonly causes pain on the outer side of the knee and can result from overuse or biomechanical issues.",
             "pain_area": "Outer side of the knee",
@@ -299,6 +371,52 @@
               "Educate yourself and others about the signs and symptoms of heat stroke and seek medical help if necessary."
             ],
             "video_link": "https://www.youtube.com/watch?v=F9xcmFGUsLk"
+          }, {
+            "issue": "Quadriceps Strain",
+            "description": "A quadriceps strain is an injury to the quadriceps muscle group, usually resulting from overuse or sudden movements, leading to pain, swelling, and difficulty moving the front of the thigh.",
+            "pain_area": "Front Thigh",
+            "prevention_tips": [
+              "Warm up properly before engaging in activities that stress the quadriceps muscles.",
+              "Gradually increase the intensity and duration of exercises to avoid strain on the quadriceps.",
+              "Incorporate flexibility exercises to improve the range of motion in the quadriceps.",
+              "Use proper form and technique during exercises to reduce the risk of injury."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=g09P0kJwR4I"
+          },
+          {
+            "issue": "Patellofemoral Pain Syndrome (Runner's Knee)",
+            "description": "Patellofemoral pain syndrome, also known as runner's knee, is a common condition characterized by pain around the kneecap, often worsened by activities such as running, jumping, or prolonged sitting.",
+            "pain_area": "Front Thigh",
+            "prevention_tips": [
+              "Strengthen the muscles surrounding the knee, including the quadriceps and hamstrings, to provide support and stability.",
+              "Avoid activities that aggravate the pain, such as running on hard surfaces or going up and down stairs.",
+              "Use proper footwear with good shock absorption to reduce stress on the knees.",
+              "Incorporate low-impact exercises, such as swimming or cycling, into your workout routine to reduce strain on the knees."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=z7hPrGat3dc"
+          },  {
+            "issue": "Triceps Tendonitis",
+            "description": "Triceps tendonitis is inflammation or irritation of the triceps tendon, which connects the triceps muscle to the elbow. It can result in pain, swelling, and restricted movement in the back of the arm and elbow.",
+            "pain_area": "Triceps",
+            "prevention_tips": [
+              "Avoid overuse of the triceps through excessive weightlifting or repetitive arm movements.",
+              "Warm up properly before engaging in activities that stress the triceps.",
+              "Strengthen the muscles surrounding the elbow joint to provide support and stability.",
+              "Practice proper form and technique during exercises to reduce strain on the triceps tendon."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=g09P0kJwR4I"
+          },
+          {
+            "issue": "Triceps Strain",
+            "description": "A triceps strain occurs when the triceps muscle is stretched or torn, leading to pain, weakness, and swelling in the back of the upper arm. It can be caused by sudden movements or overuse of the triceps.",
+            "pain_area": "Triceps",
+            "prevention_tips": [
+              "Gradually increase the intensity and duration of triceps exercises to avoid strain.",
+              "Incorporate rest days into your workout routine to allow for adequate recovery.",
+              "Stretch the triceps muscles regularly to improve flexibility and reduce the risk of injury.",
+              "Listen to your body and avoid activities that cause pain or discomfort in the triceps."
+            ],
+            "video_link": "https://www.youtube.com/watch?v=z7hPrGat3dc"
           },
           {
             "issue": "Epicondylitis (Tennis/Golfer's Elbow)",
@@ -394,6 +512,52 @@
                 "Listen to your body and avoid pushing through pain or discomfort in the Achilles tendon."
               ],
               "video_link": "https://www.youtube.com/watch?v=b5UEIbIkNnk"
+            },  {
+              "issue": "Gluteal Tendinopathy",
+              "description": "Gluteal tendinopathy is a common cause of hip pain, characterized by inflammation or irritation of the tendons of the gluteal muscles. It can result in pain, stiffness, and difficulty with activities such as walking, climbing stairs, or sitting for long periods.",
+              "pain_area": "Glutes",
+              "prevention_tips": [
+                "Strengthen the gluteal muscles with targeted exercises to provide support and stability to the hips.",
+                "Avoid activities that aggravate the pain, such as prolonged sitting or repetitive movements that stress the gluteal tendons.",
+                "Incorporate stretching and mobility exercises into your routine to improve flexibility and reduce stiffness in the hips.",
+                "Use proper form and technique during exercises to avoid overloading the gluteal tendons."
+              ],
+              "video_link": "https://www.youtube.com/watch?v=g09P0kJwR4I"
+            }, {
+              "issue": "Tennis Elbow (Lateral Epicondylitis)",
+              "description": "Tennis elbow, or lateral epicondylitis, is a painful condition caused by overuse of the muscles and tendons in the forearm, near the elbow. It is commonly associated with activities that involve repetitive gripping and twisting motions, such as tennis, gardening, or typing.",
+              "pain_area": "Forearm",
+              "prevention_tips": [
+                "Use proper technique and form during activities that stress the forearm muscles, such as lifting weights or using tools.",
+                "Take frequent breaks and avoid overdoing repetitive tasks to prevent strain on the forearm muscles and tendons.",
+                "Incorporate forearm strengthening and stretching exercises into your workout routine to improve flexibility and reduce the risk of injury.",
+                "Use equipment and tools that are ergonomic and provide proper support for the forearm and wrist."
+              ],
+              "video_link": "https://www.youtube.com/watch?v=g09P0kJwR4I"
+            },
+            {
+              "issue": "Carpal Tunnel Syndrome",
+              "description": "Carpal tunnel syndrome is a common condition caused by compression of the median nerve as it passes through the carpal tunnel in the wrist. It can result in pain, numbness, and tingling in the hand and fingers, as well as weakness and difficulty gripping objects.",
+              "pain_area": "Forearm",
+              "prevention_tips": [
+                "Maintain good posture and wrist alignment to reduce strain on the carpal tunnel.",
+                "Take frequent breaks from activities that require repetitive wrist movements, such as typing or using a computer mouse.",
+                "Perform wrist stretches and exercises to improve flexibility and reduce pressure on the median nerve.",
+                "Use wrist splints or braces to keep the wrist in a neutral position and alleviate symptoms during activities that aggravate carpal tunnel syndrome."
+              ],
+              "video_link": "https://www.youtube.com/watch?v=z7hPrGat3dc"
+            },
+            {
+              "issue": "Piriformis Syndrome",
+              "description": "Piriformis syndrome is a condition characterized by compression or irritation of the sciatic nerve by the piriformis muscle, resulting in pain, numbness, and tingling in the buttocks and down the leg. It can be exacerbated by activities such as sitting for long periods, running, or climbing stairs.",
+              "pain_area": "Glutes",
+              "prevention_tips": [
+                "Incorporate stretching and foam rolling exercises to alleviate tightness and tension in the piriformis muscle.",
+                "Strengthen the muscles surrounding the hips and pelvis to provide support and stability.",
+                "Avoid activities that aggravate the symptoms, such as prolonged sitting or activities that require repetitive hip movements.",
+                "Listen to your body and take breaks if you experience pain or discomfort in the glutes and legs."
+              ],
+              "video_link": "https://www.youtube.com/watch?v=z7hPrGat3dc"
             },
             {
               "issue": "Groin Hernia",
@@ -478,7 +642,19 @@
                 "Incorporate strengthening exercises for the quadriceps and hamstrings to provide support and stability for the knee joint."
               ],
               "video_link": "https://www.youtube.com/watch?v=kebQvOW8DHE"
+            },{
+              "issue": "Golfer's Elbow (Medial Epicondylitis)",
+              "description": "Golfer's elbow, or medial epicondylitis, is a painful condition caused by overuse of the muscles and tendons in the forearm, near the elbow. It is similar to tennis elbow but affects the inner side of the elbow. Golfer's elbow is commonly associated with activities that involve repetitive wrist flexion and gripping motions, such as golfing, gardening, or using hand tools.",
+              "pain_area": "Forearm",
+              "prevention_tips": [
+                "Warm up properly before engaging in activities that stress the forearm muscles, such as golfing or using hand tools.",
+                "Use proper technique and form during activities to avoid placing excessive strain on the forearm tendons.",
+                "Take frequent breaks and avoid overdoing repetitive tasks to prevent overuse injuries.",
+                "Incorporate forearm strengthening exercises, such as wrist curls and reverse wrist curls, into your workout routine to improve muscle endurance and reduce the risk of injury."
+              ],
+              "video_link": "https://www.youtube.com/watch?v=cwNLMKQ_yA0"
             },
+            
             {
               "issue": "Knee Bursitis",
               "description": "Knee bursitis is inflammation of the bursae, small fluid-filled sacs that cushion and lubricate the knee joint, causing pain, swelling, and tenderness around the kneecap (patella). It can result from repetitive kneeling, direct trauma, or underlying medical conditions.",
