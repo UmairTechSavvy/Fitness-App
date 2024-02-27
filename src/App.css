@@ -41,6 +41,7 @@ body{
   display: inline-block; /* Display the image as inline-block */
   vertical-align: middle; /* Align the image vertically */
   float: right; /* Align the image to the extreme right */
+  border-radius: 90px;
 }
 
 .para {
@@ -57,8 +58,9 @@ body{
   width: calc(30% - 20px); /* Set the width to 30% minus the padding */
   display: inline-block; /* Display the paragraph as inline-block */
   vertical-align: middle; /* Align the paragraph vertically */
-  left: 8px;
-  bottom: 30px;
+  left: 50px;
+  position: absolute;
+  bottom: 300px;
 }
 .para1 {
   text-align: left; /* Align the text to the left */
@@ -73,8 +75,8 @@ body{
   width: calc(30% - 20px); /* Set the width to 30% minus the padding */
   display: inline-block; /* Display the paragraph as inline-block */
   position: absolute; /* Set the position to absolute */
-  bottom: 105px; /* Align the paragraph to the bottom */
-  left: 8px; /* Align the paragraph to the left */
+  bottom: 130px; /* Align the paragraph to the bottom */
+  left: 50px; /* Align the paragraph to the left */
 }
 .para2 {
   text-align: left; /* Align the text to the left */
@@ -89,8 +91,8 @@ body{
   width: calc(30% - 20px); /* Set the width to 30% minus the padding */
   display: inline-block; /* Display the paragraph as inline-block */
   position: absolute; /* Set the position to absolute */
-  bottom: 1px; /* Align the paragraph to the bottom */
-  left: 8px; /* Align the paragraph to the left */
+  bottom: 20px; /* Align the paragraph to the bottom */
+  left: 49px; /* Align the paragraph to the left */
 }
 
 .head1{
@@ -222,7 +224,7 @@ color: red;
   }
   .nav3{
 
-margin-left: 100px;
+margin-left: 69px;
 
 color: white;
 width: 20px;
@@ -259,87 +261,76 @@ bottom: 30px;
 /* Styling for the social media icons */
 /* Styling for the social media icons */
 /* Styling for the social media icons */
-.op1,.op2,.op3 {
-  display: inline-block;
-  margin-right: 15px;
-  border-radius: 50px;
-  border:20px inset black;
-}
-.wlink{
-
-  display: inline-block;
-  margin-right: 15px;
-  border-radius: 60px;
-  border:20px inset black;
-
-}
-
-
-.op1:hover,.op2:hover , .op3:hover{
-
-border: 40px inset brown;
-
-}
-
-/* Styling for the links */
-.link11, .link22,.link33  {
-  text-decoration: none;
-  color: blue;
-  transition: color 0.3s ease; /* Smooth transition on hover */
-  font-family: Arial, sans-serif; /* Use a common font for consistency */
-}
-
-
-
-.link11:hover, .link22:hover, .link33:hover {
-  color: #E1306C; /* Change color on hover */
-}
-
-/* Styling for the icons */
-.FaInstagram,
-.FaFacebook,
-.FaLinkedin {
-  font-size: 40px; /* Increase icon size */
-  vertical-align: middle; /* Align icon vertically */
-  margin-right: 10px; /* Adjust spacing between icon and text */
-  border-color: #E1306C;
-}
-
-.linkcon{
-
-
-padding-top: 40px;
-width: 230px;
-text-align: center;
-
-margin-right: 300px;
-
-}
-.linkcon1{
-
-
- 
-  padding-top: 40px;
-  width: 230px;
-  text-align: center;
-
-  margin-right: 300px;
- 
-
-}
-
-.linkcon2{
-
- 
-  padding-top: 40px;
-  width: 230px;
-  text-align: center;
+/* Footer styling */
+.foot {
+  background-color: black;
   
-  margin-right: 300px;
+  padding: 20px;
+}
 
+.footer {
+  display: flex;
+  background-color: blueviolet;
+  justify-content: space-between;
+  align-items: center;
+  border: 30px inset blueviolet;
+}
 
+.cont1 {
+  flex: 1;
+}
+
+.wlink {
+  margin-bottom: 10px;
+}
+
+.number {
+  font-size: 26px;
+  position: absolute;
+  left: 850px;
+  color: whitesmoke;
+}
+.number:hover{
+
+color: brown;
 
 }
+
+.linkcon,
+.linkcon1,
+.linkcon2 {
+  margin-left: 20px;
+}
+
+/* Social media icon styling */
+.op1,
+.op2,
+.op3 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.link11,
+.link22,
+.link33 {
+  color: blue;
+  text-decoration: none;
+}
+
+/* Hover effect for social media icons */
+.link11:hover,
+.link22:hover,
+.link33:hover {
+  color: black;
+}
+
+
+
+
+
+
+
+
 
 
 .homeH{
@@ -449,7 +440,7 @@ color: wheat;
 
 color: wheat;
 position: absolute;
-left: 1180px;
+left: 1100px;
 
 }
 

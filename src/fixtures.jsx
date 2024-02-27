@@ -24,7 +24,7 @@ const Fixture = ()=>{
 
 <p className="para">Welcome to Umair fitness club where you will find everything you demand for regarding exercises</p>
 <p className="para1">In this website you will also find health issues a person face while doing exercises from home or gym</p>
-<p className="para2">You will also find some of the great food recipes a gym enthusiast should know</p>
+<p className="para2">You will also find some great articles</p>
 
 <img src={Images1} className="pic1" />
   
